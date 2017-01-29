@@ -1,0 +1,7 @@
+---
+applications:
+  - name: stream-producer
+    services:
+      - rabbitmq-local
+    memory: 512M
+    buildpack: java_buildpack

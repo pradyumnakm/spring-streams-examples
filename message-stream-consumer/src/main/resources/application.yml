@@ -1,0 +1,10 @@
+---
+server:
+  port: 18081
+  
+spring:
+  cloud:
+    stream:
+      bindings:
+        input:
+          destination: ping-queue
