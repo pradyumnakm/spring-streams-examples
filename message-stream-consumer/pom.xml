@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.prady</groupId>
-	<artifactId>rabbitmq-producer</artifactId>
+	<artifactId>rabbitmq-consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>rabbitmq-consumer</name>
-	<description>rabbitmq-producer</description>
+	<description>rabbitmq-consumer</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
